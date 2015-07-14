@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DBsqlite</string>
+
+    <string name="hello_world">Genymotion</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_alta">Alta</string>
+    <string name="action_baja">Baja</string>
+    <string name="action_dni">Consulta por DNI</string>
+    <string name="action_modif">Modificación</string>
+
+    <string name="label_dni_e">DNI: </string>
+    <string name="label_mesa_e">Número de Mesa: </string>
+    <string name="label_nombre_apellido_e">Nombre y Apellido: </string>
+    <string name="label_partido_e">Nombre del Partido: </string>
+
+</resources>
